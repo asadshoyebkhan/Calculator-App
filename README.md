@@ -17,7 +17,7 @@ This is a simple calculator app that performs basic arithmetic operations. It is
 - Multiplication (x)
 - Division (/)
 - Decimal point (.)
-- Clear button (C)
+- Clear button (CLR)
 
 ## Installation
 

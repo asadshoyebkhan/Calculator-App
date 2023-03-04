@@ -1,9 +1,12 @@
 # Calculator App
+<div style="display:flex; justify-content:center; align-items:center;">
+  <img src="img1.jpg" alt="Photo 1" width="250" height="450">
+  <img src="img3.jpg" alt="Photo 1" width="250" height="450">
+  <img src="img4.jpg" alt="Photo 1" width="250" height="450">
+  <img src="img2.jpg" alt="Photo 1" width="250" height="450">
+</div>
 
-![Calculator App screenshot](img1.jpg){:width="40px" height="30px"}
-![Calculator App screenshot](img4.jpg){:width="40px" height="30px"}
-![Calculator App screenshot](img3.jpg){:width="40px" height="30px"}
-![Calculator App screenshot](img4.jpg){:width="40px" height="30px"}
+
 
 This is a simple calculator app that performs basic arithmetic operations. It is designed to be user-friendly and easy to use.
 
@@ -20,7 +23,7 @@ This is a simple calculator app that performs basic arithmetic operations. It is
 
 To use this calculator app, simply download the files from the repository and open the index.html file in your web browser.
 
-Alternatively, you can view a live demo of the calculator app [here](https://example.com/calculator).
+Alternatively, you can view a live demo of the calculator app [here](app-debug.apk).
 
 ## Usage
 
@@ -34,6 +37,4 @@ To clear the display screen, click on the clear button (C).
 
 If you would like to contribute to the calculator app, you can do so by forking the repository on Github and submitting a pull request.
 
-## License
 
-This calculator app is released under the MIT license. See LICENSE file for details.

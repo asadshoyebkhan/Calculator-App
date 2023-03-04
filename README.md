@@ -1,9 +1,9 @@
 # Calculator App
 
-![Calculator App screenshot](/path/to/screenshot.png)
-![Calculator App screenshot](/path/to/screenshot.png)
-![Calculator App screenshot](/path/to/screenshot.png)
-![Calculator App screenshot](/path/to/screenshot.png)
+![Calculator App screenshot](img1.jpg){:width="400px" height="300px"}
+![Calculator App screenshot](img4.jpg){:width="400px" height="300px"}
+![Calculator App screenshot](img3.jpg){:width="400px" height="300px"}
+![Calculator App screenshot](img4.jpg){:width="400px" height="300px"}
 
 This is a simple calculator app that performs basic arithmetic operations. It is designed to be user-friendly and easy to use.
 
